@@ -1,4 +1,6 @@
 Cantv VIII - 8.1.4
 
-- Security craft
-- Replace this text with your real changelog if you want.
+- Security craft ha sido añadido.
+- Configuracion de la version del servidor ha sido corregida, ahora no podras unirte si el servidor tiene una version diferente a la que tienes instalada
+- Modpack update history 
+- (Optimized) Se han quitado las fisicas de audio
