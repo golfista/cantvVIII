@@ -1,4 +1,4 @@
 Cantv VIII - 8.1.3
 
-- Initial version with Modpack Update Checker support.
-- Replace this text with your real changelog if you want.
+- Se han añadido los "Backpacks"
+- Se han añadido las tumbas, cuando mueres, tu loot no desaparecerá

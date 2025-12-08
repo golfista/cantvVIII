@@ -5,3 +5,4 @@ Cantv VIII - 8.1.4
 - Configuracion de la version del servidor ha sido corregida, ahora no podras unirte si el servidor tiene una version diferente a la que tienes instalada
 - Modpack update history 
 - (Optimized) Se han quitado las fisicas de audio para mejor rendimiento
+- (Optimized) Se ha desactivado Distant Horizons por defecto
