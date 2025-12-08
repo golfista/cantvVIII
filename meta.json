@@ -8,7 +8,18 @@
       "releasedAt": 1765065600000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://cdn.stelle.moe/web/cantvVIII8.1.3.mrpack"
+          "modrinth": "https://cdn.stelle.moe/web/Cantv%20VIII%208.1.3.mrpack",
+          "generic": "https://cdn.stelle.moe/web/Cantv%20VIII%208.1.3.zip"
+        }
+      }
+    },
+    {
+      "id": "8.1.4",
+      "releasedAt": 1765152000000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://cdn.stelle.moe/web/Cantv%20VIII%208.1.4.mrpack",
+          "generic": "https://cdn.stelle.moe/web/Cantv%20VIII%208.1.4.zip"
         }
       }
     }
