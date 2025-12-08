@@ -1,8 +1,8 @@
 Cantv VIII - 8.1.4
 
 
-- Security craft ha sido añadido.
-- Configuracion de la version del servidor ha sido corregida, ahora no podras unirte si el servidor tiene una version diferente a la que tienes instalada
+- WATERFrAMES craft ha sido añadido.
+- Configuracion de la version del servidor ha sido corregida, ahora no podras unirte al servidor si tienes una version diferente del modpack a la que el servidor tiene
 - Modpack update history 
 - (Optimized) Se han quitado las fisicas de audio para mejor rendimiento
 - (Optimized) Se ha desactivado Distant Horizons por defecto
