@@ -1,7 +1,6 @@
 Cantv VIII - 8.1.5
 
 - Se agrego el mod "Ice and fire"
-- Se agrego el mod "Dragon Survival"
 - Se agregaron 3 plugins para el Create.
 - Se agrego un plugin para WATERFrAMES para poder reproducir videos de youtube.
 - Se quito el mod "better compatibility checker" debido a errores con la conexion del server.
