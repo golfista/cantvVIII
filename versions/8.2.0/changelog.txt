@@ -1,0 +1,8 @@
+Cantv VIII - 8.2.0
+
+- Se agrego la funcion de "Auto Update", cada vez que te unas al servidor, revisara si tienes los mods mas actualizados, y si te falta uno, te los instalara automaticamente
+- Se agrego el mod "Storage Drawers"
+- Se agrego el mod "Cataclysm: Spellbooks"
+- Se agrego el mod "Pretty Pipes"
+- Se agrego el mod "Create: Ender Transmission"
+- Se agrego el mod "Create Recycle Everything"
