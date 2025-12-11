@@ -42,6 +42,16 @@
           "generic": "https://cdn.stelle.moe/web/Cantv%20VIII%208.2.0.zip"
         }
       }
+    },
+    {
+      "id": "8.2.2",
+      "releasedAt": 1765301040,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://cdn.stelle.moe/web/Cantv%20VIII%208.2.0.mrpack",
+          "generic": "https://cdn.stelle.moe/web/Cantv%20VIII%208.2.0.zip"
+        }
+      }
     }
   ]
 }
