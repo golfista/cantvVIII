@@ -1,6 +1,6 @@
 Cantv VIII — 8.2.4
 
-- ➕ Se agregó el mod **Insane TNT** *(Insane tnt 1.20.1 version 1.4)*
+- ➕ Se agregó el mod **Insane TNT**
 - ➕ Se agregó la librería **InsaneLib** *(requerida por Insane TNT)*
 - ➕ Se agregó el mod **Area Effect Cloud 3D**
 - ➕ Se agregó el mod **Creeper Overhaul**
@@ -12,6 +12,11 @@ Cantv VIII — 8.2.4
 - ➕ Se agregó el mod **Progressive Bosses**
 - ➕ Se agregó el mod **Iron Chests**
 - ➕ Se agregó el mod **Inventory Sorter**
+- ➕ Se agregó el mod **The Twilight Forest**
+- ➕ Se agregó el mod **DivineRPG**
+- ➕ Se agregó el mod **The Bumblezone**
+- ➕ Se agregó el mod **Blue Skies**
+- ➕ Se agregó la librería **Structure Gel API**
 - 🔄 Se actualizaron los mods de la captura: **Distant Horizons**, **WaterMedia YouTube Plugin**, **Trek**, **Sophisticated Core**, **Sophisticated Backpacks**, **Simple Voice Chat**, **Ritchie’s Projectile Lib**, **Shoulder Surfing**, **Fantasy Armor**, **Goety**, **Iron’s Spellbooks**, **Oh The Biomes We’ve Gone**, **Obscure Tooltips**, **ModernFix**, **Fast IP Ping**, **EntityCulling**, **e4mc**, **FabricSkyBoxes**, **Create: New Age**, **Create Big Cannons**, **ChatNotify**, **Iris**, **3D Skin Layers**
 - ➖ Se eliminó el mod **YUNG’s Better End Island**
 - ➖ Se eliminó el mod **End Fight Remastered**
