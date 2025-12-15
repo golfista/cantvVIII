@@ -1,25 +1,14 @@
 Cantv VIII — 8.2.4
 
-➕ Se agregó el mod Insane TNT (Insane tnt 1.20.1 version 1.4)
-
-➕ Se agregó la librería InsaneLib (requerida por Insane TNT)
-
-➕ Se agregó el mod Area Effect Cloud 3D
-
-➕ Se agregó el mod Creeper Overhaul
-
-➕ Se agregó el mod Enderman Overhau
-
-➕ Se agregó el mod Stellarity
-
-➕ Se agregó el mod True Ending
-
-➕ Se agregó el mod Ender Dragon Drops
-
-➕ Se agregó el mod Ender Trigon
-
-➕ Se agregó el mod Progressive Bosses
-
-➖ Se elimino el mod "Yungs better end island"
-
-➖ Se elimino el mod "End fight remastered" 
+* ➕ Se agregó el mod **Insane TNT** *(Insane tnt 1.20.1 version 1.4)*
+* ➕ Se agregó la librería **InsaneLib** *(requerida por Insane TNT)*
+* ➕ Se agregó el mod **Area Effect Cloud 3D**
+* ➕ Se agregó el mod **Creeper Overhaul**
+* ➕ Se agregó el mod **Enderman Overhaul**
+* ➕ Se agregó el mod **Stellarity**
+* ➕ Se agregó el mod **True Ending**
+* ➕ Se agregó el mod **Ender Dragon Drops**
+* ➕ Se agregó el mod **Ender Trigon**
+* ➕ Se agregó el mod **Progressive Bosses**
+* ➖ Se eliminó el mod **YUNG’s Better End Island**
+* ➖ Se eliminó el mod **End Fight Remastered**
